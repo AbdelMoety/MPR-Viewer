@@ -106,6 +106,12 @@ Contributions are welcome! Please open an issue or submit a pull request to help
 
 ---
 
+## Project Demo
+
+[Watch the video](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+
+---
+
 ## Acknowledgements
 
 - **PyQt5** for the responsive user interface.
