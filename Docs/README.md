@@ -108,7 +108,7 @@ Contributions are welcome! Please open an issue or submit a pull request to help
 
 ## Project Demo
 
-[Watch the video](https://drive.google.com/file/d/1sgSHxCOF9-0qesqYctHpwGGSz6MQpbBF/view?usp=drive_link)
+[Watch the video](https://github.com/user-attachments/assets/698139ca-6b05-4109-9e5c-25af1b6d4f48)
 
 ---
 
